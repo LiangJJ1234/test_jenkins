@@ -6,4 +6,4 @@ class TestJenkins():
 
     def test_jenkins_2(self):
         print("失败失败失败！")
-        assert 0
+        assert 1
